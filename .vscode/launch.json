@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendApplication<BACKEND>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.klef.devops.BackendApplication",
+            "projectName": "BACKEND",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
